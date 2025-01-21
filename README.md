@@ -14,17 +14,16 @@ To fetch the userinfo in slack workspace using the user.info endpoint<br>
 To fetch the usergroup in slack workspace using the usergroup.list endpoint<br>
 
 ## Installation
-``` bash
+```bash
 git clone https://github.com/Shilpa-sacumen/slack_connector.git
-```<br>
-
-``` bash
+```
+```bash
 cd slack_connector
-```<br>
+```
 
-``` bash
+```bash
 pip install -r requirements.txt
-```<br>
+```
 
 ## Configurations
 ### config.py
