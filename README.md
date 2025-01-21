@@ -33,7 +33,7 @@ base_url=your base url<br>
 user_info=end point for userinfo<br>
 user_group_list=end point for usergroup<br>
 
-### `logging`
+### logging
 LOG_LEVEL='DEBUG"  #Logging level (DEBUG,INFO,WARNING,ERROR)<br>
 LOG_HANDLER=FileHandler<br>
 LOG_FORMATTER=%(process)d %(asctime)s %(name)s  %(levelname)s  %(message)s<br>
