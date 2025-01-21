@@ -45,5 +45,6 @@ Steps to run connector<br>
 2. Install all required packages using `requirements.txt`.
 3. add required functions and unittest case for them.
 4. Execute ```
-pytest path_of_testcase```.
+       pytest path_of_testcase
+       ```.
 5. To run functions defined execute `run.py` file. 
